@@ -1,0 +1,1 @@
+{"first player name": "Ali", "second player name": "Mohsen", "first player char": "A", "second player char": "@"}
